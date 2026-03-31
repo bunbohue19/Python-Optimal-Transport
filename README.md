@@ -1,4 +1,4 @@
-Simple Implementation of Optimal Transport using PyOT\
+Simple Implementation of Optimal Transport using PyOT
 
 Docs:
 
