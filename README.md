@@ -5,28 +5,25 @@ A simple implementation of Optimal Transport using **PyOT**.
 ## Documentation
 
 1. **Algorithmic Foundations**  
-   [View resource](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221PGon2umQbRYJfz-YiIK5azQ3i2E02pZ3%22%5D,%22action%22:%22open%22,%22userId%22:%22108342761400923868233%22,%2[...])
+   [View resource](https://aistudio.google.com/app/prompts?state=%7B%22ids%22%3A%5B%221PGon2umQbRYJfz-YiIK5azQ3i2E02pZ3%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22108342761400923868233%22%2C%22resourceKeys%22%3A%7B%7D%7D&usp=drive_link)
 
 2. **Applications**  
-   [View resource](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%2214KTtmDWynTirrvvafmYLFqqSfOQB0CBa%22%5D,%22action%22:%22open%22,%22userId%22:%22108342761400923868233%22,%22resourceKe[...])
+   [View resource](https://aistudio.google.com/app/prompts?state=%7B%22ids%22%3A%5B%2214KTtmDWynTirrvvafmYLFqqSfOQB0CBa%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22108342761400923868233%22%2C%22resourceKeys%22%3A%7B%7D%7D&usp=drive_link)
 
 3. **Density Fitting**  
-   [View resource](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221cHYfSU6DuYYyPV1gZ_bTDYA01NSrJnXe%22%5D,%22action%22:%22open%22,%22userId%22:%22108342761400923868233%22,%22resourc[...])
+   [View resource](https://aistudio.google.com/app/prompts?state=%7B%22ids%22%3A%5B%221cHYfSU6DuYYyPV1gZ_bTDYA01NSrJnXe%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22108342761400923868233%22%2C%22resourceKeys%22%3A%7B%7D%7D&usp=drive_link)
 
 4. **Entropic Regularization**  
-   - [Document 1](https://drive.google.com/file/d/13BHnnadgbc-WKq_PqNj8a8rFfLVzG1ql/view?usp=sharing)  
-   - [Document 2](https://drive.google.com/file/d/16xNiMLOgJLzSIRVSIMbg_s5ZjXuoIpEV/view?usp=sharing)  
-   - [Additional resource](http[...])
+   [View resource](https://aistudio.google.com/app/prompts?state=%7B%22ids%22%3A%5B%221AMTc2z7g2ERBJAEvcJBPj19mQdqgQXxB%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22108342761400923868233%22%2C%22resourceKeys%22%3A%7B%7D%7D&usp=drive_link)
 
 5. **GradFlow-Unbalanced**  
-   - [Document 1](https://drive.google.com/file/d/10KIOOdBeoRK7YllKPbcH3qh-dqyxmL5A/view?usp=sharing)  
-   - [Additional resource](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221jZSlFjThVaGHHq8jk-Wa58VHTZ[...])
+   [View resource](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221jZSlFjThVaGHHq8jk-Wa58VHTZ3nOAk1%22%5D,%22action%22:%22open%22,%22userId%22:%22108342761400923868233%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
 
 6. **Gromov Wasserstein**  
-   [View resource](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%2210EswSEN4ETpAxbaULkmJUVZ1wl0UNZyA%22%5D,%22action%22:%22open%22,%22userId%22:%22108342761400923868233%22,%22reso[...])
+   [View resource](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%2210EswSEN4ETpAxbaULkmJUVZ1wl0UNZyA%22%5D,%22action%22:%22open%22,%22userId%22:%22108342761400923868233%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
 
 7. **Semi-Discrete**  
-   [View resource](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%2215CkJwv2FVVo8FbncaVkC-1oFmdSQeHGg%22%5D,%22action%22:%22open%22,%22userId%22:%22108342761400923868233%22,%22resourceK[...])
+   [View resource](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%2215CkJwv2FVVo8FbncaVkC-1oFmdSQeHGg%22%5D,%22action%22:%22open%22,%22userId%22:%22108342761400923868233%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
 
 8. **Theoretical Foundations**  
-   [View resource](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%22173hYtYUPmTlrd67OO2oGbnnr7Vnu8HVs%22%5D,%22action%22:%22open%22,%22userId%22:%22108342761400923868233%22,%2[...])
+   [View resource](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%22173hYtYUPmTlrd67OO2oGbnnr7Vnu8HVs%22%5D,%22action%22:%22open%22,%22userId%22:%22108342761400923868233%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
